@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"dedede
+	"fmt"
 	"time"
 )
 
