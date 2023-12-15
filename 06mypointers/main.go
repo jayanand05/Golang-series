@@ -1,6 +1,6 @@
 package main
 
-import "fmt"fefrefr
+import "fmt"
 
 func main() {
 	fmt.Println("Welcome to pointers in golang")
