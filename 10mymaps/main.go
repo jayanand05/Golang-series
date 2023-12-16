@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Welcome to maps of golang")
+	fmt.Println("Welcome to maps of golang")rfrfrf
 
 	languages := make(map[string]int)
 	languages["JS"] = 8
