@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome to slice part of golang series ")
+	fmt.Println("Welcome to slice part of golang series ")frfrfr
 
 	var fruitlist = []string{"Banana", "Guava", "Litchi"}
 	fmt.Println(fruitlist)
