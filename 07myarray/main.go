@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Welcome to the array of golang")rrfrcfr
+	fmt.Println("Welcome to the array of golang")
 
 	var fruitList[4] string;
 
