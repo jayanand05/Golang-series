@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt"ededed
 
 func main() {
 	fmt.Println("Welcome to struct part of the golang");
