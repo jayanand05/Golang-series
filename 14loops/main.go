@@ -1,6 +1,6 @@
 package main
 
-import "fmt"edede
+import "fmt"
 
 func main() {
 	fmt.Println("Welcome to loops of golang");
