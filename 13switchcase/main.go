@@ -1,4 +1,4 @@
-package main dedede
+package main 
 
 import (
 	"fmt"
