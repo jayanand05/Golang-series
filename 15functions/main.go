@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-cdcdcd
+
 func main() {
 	fmt.Println("HIIII")
 	greeter()
