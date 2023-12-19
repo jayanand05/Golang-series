@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-dcdcdc
+
 func main() {
 	fmt.Println("Wlecome to methods of golang")
 	userInput := User{"Jay", "hi@gmail.com", true, 88}
