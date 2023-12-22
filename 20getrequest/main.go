@@ -1,4 +1,4 @@
-package main edede
+package main 
 
 import (
 	"fmt"
