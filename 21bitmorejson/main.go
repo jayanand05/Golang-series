@@ -1,4 +1,4 @@
-package main
+package main frrfr
 
 import (
 	"encoding/json"
