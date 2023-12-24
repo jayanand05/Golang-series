@@ -1,4 +1,4 @@
-package main  jknkjjn
+package main  
 
 import "fmt"
 
