@@ -1,4 +1,4 @@
-package main erecrc
+package main 
 
 import (
 	"fmt"
