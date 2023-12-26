@@ -1,6 +1,6 @@
 package main
 
-import ( jnjjn
+import ( 
 	"fmt"
 	"sync"
 )
