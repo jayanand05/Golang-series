@@ -1,4 +1,4 @@
-package main hehduehdheidje
+package main 
 
 import ( 
 	"fmt"
