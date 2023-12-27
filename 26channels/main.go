@@ -1,6 +1,6 @@
 package main
 
-import (  ejdejifejd
+import (  
 	"fmt"
 	"sync"
 )
